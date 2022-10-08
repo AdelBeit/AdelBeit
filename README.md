@@ -1,4 +1,10 @@
-### Hi there 👋
+### Welcome traveler!
+## Adele has (soft)wares if you have coin.
+
+I'm passionate about technology, music, and television!
+
+
+
 
 <!--
 **AdelBeit/AdelBeit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
