@@ -1,5 +1,4 @@
-### Welcome traveler!
-## Adele has (soft)wares if you have coin.
+# Welcome traveler. 
 
 I'm passionate about technology, music, and television!
 
