@@ -1,4 +1,4 @@
-# Welcome traveler. 
+# Welcome traveler
 
 I'm passionate about technology, music, and television!
 
