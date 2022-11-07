@@ -1,6 +1,7 @@
 # Welcome traveler
 
 I'm passionate about technology, music, and television!
+
 I have code if you have coin
 
 
