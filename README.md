@@ -1,8 +1,7 @@
 # <img src="http://pixelartmaker-data-78746291193.nyc3.digitaloceanspaces.com/image/34b5d47a8bb25ae.png" width="30px" height="30px" /> Welcome Traveler <img src="http://pixelartmaker-data-78746291193.nyc3.digitaloceanspaces.com/image/34b5d47a8bb25ae.png" width="30px" height="30px" />
 
-I'm Adele and I'm a problem solver, I enjoy building and tinkering with things. Coding is my favorite medium, but I also like to dabble with other mediums such as electronics, cooking, music, photography, and design.
+I'm Adele and I'm a problem solver. With a drive for exploration, a fistful of curiosity, and a pocketful of ideas! I love coding for its low cost of entry and lightning fast iterative loop, but I also like to fiddle with other creative outlets such as; electronics, cooking, music, photography, and design.
 
-Aside from creating things, I also love exploring new things! Be it trying out new foods, discovering new music, finding new tv shows, traveling to new places, meeting new people, or trying new hobbies. I'm a lifelong learner who's passionate about creating and exploring.
 
 Also I'm an aspiring robot and strive for maximum efficiency; I LOVE keyboard shortcuts. Try pressing ctrl + k on any github page (command + k on macs), or try ctrl + d 
 
