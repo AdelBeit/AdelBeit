@@ -1,9 +1,6 @@
 <h1 align="center"><img src="http://pixelartmaker-data-78746291193.nyc3.digitaloceanspaces.com/image/34b5d47a8bb25ae.png" width="30px" height="30px" /> Welcome Traveler <img src="http://pixelartmaker-data-78746291193.nyc3.digitaloceanspaces.com/image/34b5d47a8bb25ae.png" width="30px" height="30px" /></h1>
 <h3 align="center">I'm Adele, a Frontend Engineer</h3>
 
-I have a drive for exploration, a fistful of curiosity, and a pocketful of ideas! I'm a builder at heart and like coding due to its low cost and rapid iterative loop. I also like to mess around with electronics.
-
-
 - 🔭 I’m currently working on [react icon ether](https://github.com/adelbeit/react-icon-ether)
 
 - 🌱 I’m currently learning **how to publish react components on npm**
