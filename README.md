@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **how to publish react components on npm**
 
-- 👨‍💻 All of my projects are available at [https://adelbeit.com](https://adelbeit.com)
+<!-- - 👨‍💻 All of my projects are available at [https://adelbeit.com](https://adelbeit.com) -->
 
-- 💬 Ask me about **React, Typescript, UX/UI design, music, TV, cooking, photography, bouldering, and hiking**
+- 💬 Ask me about **React, Typescript, UX/UI design, music, TV, cooking**
 
-- 📫 Reach me @ **adelbeit@gmail.com**
+<!-- - 📫 Reach me @ **adelbeit@gmail.com** -->
 
-- 📄  Learn about my experiences [https://adelbeit.com/developer](https://adelbeit.com/developer)
+<!-- - 📄  Learn about my experiences [https://adelbeit.com/developer](https://adelbeit.com/developer) -->
 
 - ⚡ Fun fact **I know how to make all the Starbucks drinks**
 
