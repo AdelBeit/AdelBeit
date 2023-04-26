@@ -1,9 +1,9 @@
 <h1 align="left"><img src="http://pixelartmaker-data-78746291193.nyc3.digitaloceanspaces.com/image/34b5d47a8bb25ae.png" width="30px" height="30px" /> Welcome Traveler <img src="http://pixelartmaker-data-78746291193.nyc3.digitaloceanspaces.com/image/34b5d47a8bb25ae.png" width="30px" height="30px" /></h1>
 <h3 align="left">I'm Adele, a Frontend Engineer</h3>
 
-- 🔭 I’m currently working on [react icon ether](https://github.com/adelbeit/react-icon-ether)
+- 🔭 I’m currently working on [publishing my an animated react component](https://github.com/adelbeit/react-icon-ether)
 
-- 🌱 I’m currently learning **how to publish react components on npm**
+- 🌱 I’m currently learning **about the wonders of js bundlers**
 
 <!-- - 👨‍💻 All of my projects are available at [https://adelbeit.com](https://adelbeit.com) -->
 
