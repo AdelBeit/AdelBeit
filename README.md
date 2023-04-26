@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [publishing my an animated react component](https://github.com/adelbeit/react-icon-ether)
 
-- 🌱 I’m currently learning **about the wonders of js bundlers**
+- 🌱 I’m currently learning **how to configure tsup to use css modules with typescript**
 
 <!-- - 👨‍💻 All of my projects are available at [https://adelbeit.com](https://adelbeit.com) -->
 
