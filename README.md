@@ -44,6 +44,16 @@
     <img src="https://cdn.simpleicons.org/mui"
         alt="mui" width="20" height="20"/> 
 </a> 
+    
+<a href="https://d3js.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.simpleicons.org/d3.js"
+        alt="d3" width="20" height="20"/> 
+</a> 
+    
+<a href="https://airbnb.io/visx/" target="_blank" rel="noreferrer"> 
+    <img src=""
+        alt="d3" width="20" height="20"/> 
+</a> 
 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.simpleicons.org/html5/"
