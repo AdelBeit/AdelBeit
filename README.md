@@ -44,14 +44,14 @@
     <img src="https://cdn.simpleicons.org/mui"
         alt="mui" width="20" height="20"/> 
 </a> 
-    
+
 <a href="https://d3js.org/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.simpleicons.org/d3.js"
         alt="d3" width="20" height="20"/> 
 </a> 
     
 <a href="https://airbnb.io/visx/" target="_blank" rel="noreferrer"> 
-    <img src="https://user-images.githubusercontent.com/8835499/236949315-7ec38367-2e0a-4677-9cf8-e0d20d0b6791.svg"
+    <img src="https://user-images.githubusercontent.com/8835499/236949855-f87b2078-4efd-47bf-936b-3f3ef858f929.svg"
         alt="visx" width="20" height="20"/> 
 </a> 
 
