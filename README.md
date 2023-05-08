@@ -7,7 +7,7 @@
 
 <!-- - 👨‍💻 All of my projects are available at [https://adelbeit.com](https://adelbeit.com) -->
 
-- 💬 Ask me about **React, Typescript, UX/UI design, music, TV, cooking**
+- 💬 Ask me about **React, Typescript, UX/UI design, music, television, cooking**
 
 <!-- - 📫 Reach me @ **adelbeit@gmail.com** -->
 
