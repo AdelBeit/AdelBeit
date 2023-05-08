@@ -51,8 +51,8 @@
 </a> 
     
 <a href="https://airbnb.io/visx/" target="_blank" rel="noreferrer"> 
-    <img src=""
-        alt="d3" width="20" height="20"/> 
+    <img src="https://user-images.githubusercontent.com/8835499/236949315-7ec38367-2e0a-4677-9cf8-e0d20d0b6791.svg"
+        alt="visx" width="20" height="20"/> 
 </a> 
 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
