@@ -3,15 +3,15 @@
 
 - ✨ I'm passionate about the intersection of development and design, and more broadly solving problems with technology.
 
-- 🔭 I’m currently working on [publishing an animated react component](https://github.com/adelbeit/react-icon-ether)
+- 🔭 I’m currently collaborating with some colleagues on creating an insights driven dashboard for climate change disclosures. 
 
-- 🌱 I’m currently learning **npm best practices for publishing react components**
+- 🌱 I’m currently learning **[D3.js](https://d3js.org/) and Airbnb's [vsix](https://airbnb.io/visx/)**.
 
 <!-- - 👨‍💻 All of my projects are available at [https://adelbeit.com](https://adelbeit.com) -->
 
 - 💬 Ask me about **React, Typescript, UX/UI design, music, television, cooking**
 
-<!-- - 📫 Reach me @ **adelbeit@gmail.com** -->
+- 📌 Checkout my latest project **[Icon Ether](https://github.com/adelbeit/react-icon-ether)**
 
 <!-- - 📄  Learn about my experiences [https://adelbeit.com/developer](https://adelbeit.com/developer) -->
 
