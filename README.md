@@ -3,7 +3,7 @@
 
 - ✨ I'm passionate about the intersection of development and design, and more broadly solving problems with technology.
 
-- 🔭 I’m currently collaborating with some colleagues on creating an insights driven dashboard for climate change disclosures. 
+- 🔭 I’m currently creating a frontend for a stealth startup.
 
 - 🌱 I’m currently learning **[D3.js](https://d3js.org/) and Airbnb's [vsix](https://airbnb.io/visx/)**.
 
