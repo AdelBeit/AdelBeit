@@ -3,21 +3,21 @@
 
 - ✨ I'm passionate about the intersection of development and design.
 
-- 🔭 I’m currently creating a frontend for a stealth startup.
+- 🔭 I’m currently working with a preseed startup, and hunting for hackathons.
 
-- 🌱 I’m currently learning **[D3.js](https://d3js.org/) and Airbnb's [vsix](https://airbnb.io/visx/)**.
+- 🌱 I’m currently learning **[Docusaurus](https://docusaurus.new/)**.
 
 <!-- - 👨‍💻 All of my projects are available at [https://adelbeit.com](https://adelbeit.com) -->
 
-- 💬 Ask me about **React, Typescript, UX/UI design, music, television, cooking**
+- 💬 Ask me about **React, Typescript, UX/UI design, music, television, cooking**.
 
-- 📌 Checkout my latest project **[Icon Ether](https://github.com/adelbeit/react-icon-ether)**
+- 📌 Checkout my latest project **[Icon Ether](https://github.com/adelbeit/react-icon-ether)**.
 
 <!-- - 📄  Learn about my experiences [https://adelbeit.com/developer](https://adelbeit.com/developer) -->
 
-- ⚡ Fun fact **I know how to make all the Starbucks drinks**
+- ⚡ Fun fact **I know how to make all the Starbucks drinks**.
 
-- <img align="bottom" src="https://user-images.githubusercontent.com/8835499/218330542-44214625-5d5c-495c-a4a0-b1e033ff95a9.png" width="20px" height="20px"/> I have code if you have coin 
+- <img align="bottom" src="https://user-images.githubusercontent.com/8835499/218330542-44214625-5d5c-495c-a4a0-b1e033ff95a9.png" width="20px" height="20px"/> I have code if you have coin. 
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
