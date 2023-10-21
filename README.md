@@ -1,11 +1,11 @@
 <h1 align="left"><img src="http://pixelartmaker-data-78746291193.nyc3.digitaloceanspaces.com/image/34b5d47a8bb25ae.png" width="30px" height="30px" /> Welcome Traveler <img src="http://pixelartmaker-data-78746291193.nyc3.digitaloceanspaces.com/image/34b5d47a8bb25ae.png" width="30px" height="30px" /></h1>
-<h3 align="left">I'm Adele, a Frontend Engineer</h3>
+<h3 align="left">I'm Adele, a Software Engineer</h3>
 
 - ✨ I'm passionate about the intersection of development and design.
 
 - 🔭 I’m currently working with a preseed startup, and hunting for hackathons.
 
-- 🌱 I’m currently learning **[Docusaurus](https://docusaurus.new/)**.
+- 🌱 I’m currently learning **About Langchain and prompt engineering**.
 
 <!-- - 👨‍💻 All of my projects are available at [https://adelbeit.com](https://adelbeit.com) -->
 
