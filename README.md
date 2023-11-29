@@ -3,9 +3,9 @@
 
 - ✨ I'm passionate about the intersection of development and design.
 
-- 🔭 I’m currently working with a preseed startup, and hunting for hackathons.
+- 🔭 I’m currently working on my own startup, and hunting for hackathons.
 
-- 🌱 I’m currently learning **About Langchain and prompt engineering**.
+- 🌱 I’m currently learning about **Building scalable B2B platforms**.
 
 <!-- - 👨‍💻 All of my projects are available at [https://adelbeit.com](https://adelbeit.com) -->
 
