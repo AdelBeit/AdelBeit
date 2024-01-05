@@ -3,9 +3,9 @@
 
 - ✨ I'm passionate about the intersection of development and design.
 
-- 🔭 I’m currently working on my own startup, and hunting for hackathons.
+- 🔭 I’m currently looking for new opporutnities, and hunting for hackathons.
 
-- 🌱 I’m currently learning about **Building scalable B2B platforms**.
+- 🌱 I’m currently learning about **Building a scalable B2B platform**.
 
 <!-- - 👨‍💻 All of my projects are available at [https://adelbeit.com](https://adelbeit.com) -->
 
@@ -15,7 +15,9 @@
 
 <!-- - 📄  Learn about my experiences [https://adelbeit.com/developer](https://adelbeit.com/developer) -->
 
-- ⚡ Fun fact **I know how to make all the Starbucks drinks**.
+- ⚡ Fun fact, I've gone solo skydiving.
+
+- ☄ Come hangout with me on [CodePen](https://codepen.io/adelbeit)!
 
 - <img align="bottom" src="https://user-images.githubusercontent.com/8835499/218330542-44214625-5d5c-495c-a4a0-b1e033ff95a9.png" width="20px" height="20px"/> I have code if you have coin. 
 
