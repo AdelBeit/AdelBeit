@@ -1,9 +1,9 @@
 <h1 align="left"><img src="http://pixelartmaker-data-78746291193.nyc3.digitaloceanspaces.com/image/34b5d47a8bb25ae.png" width="30px" height="30px" /> Welcome Traveler <img src="http://pixelartmaker-data-78746291193.nyc3.digitaloceanspaces.com/image/34b5d47a8bb25ae.png" width="30px" height="30px" /></h1>
 <h3 align="left">I'm Adele, a Software Engineer</h3>
 
-- ✨ I'm passionate about the intersection of development and design.
+- ✨ I'm passionate solving real problems using technology.
 
-- 🔭 I’m currently looking for new opporutnities, and hunting for hackathons.
+- 🔭 I’m currently looking for new opporutnities.
 
 - 🌱 I’m currently learning about **Building a scalable B2B platform**.
 
@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **React, Typescript, UX/UI design, music, television, cooking**.
 
-- 📌 Checkout my latest project **[Icon Ether](https://github.com/adelbeit/react-icon-ether)**.
+- 📌 Checkout my latest project **[Event Extractor](https://github.com/adelbeit/event-extractor)**.
 
 <!-- - 📄  Learn about my experiences [https://adelbeit.com/developer](https://adelbeit.com/developer) -->
 
