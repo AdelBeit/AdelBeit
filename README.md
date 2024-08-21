@@ -3,7 +3,7 @@
 
 - ✨ I'm passionate about #techforgood.
 
-- 🔭 I’m currently looking for new opporutnities.
+- 🔭 I’m currently looking for new opporutnities and challenges.
 
 - 🌱 I’m currently learning about **Building a scalable B2B platform**.
 
