@@ -63,7 +63,7 @@
 </a> 
 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" style="text-decoration: none; color: inherit;"> 
-  <img src="./icons/css3.svg" alt="css3" width="20" height="20"/> 
+  <img src="./icons/css.svg" alt="css" width="20" height="20"/> 
 </a> 
 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" style="text-decoration: none; color: inherit;"> 
@@ -79,7 +79,7 @@
 </a>
 
 <a href="https://d3js.org/" target="_blank" rel="noreferrer" style="text-decoration: none; color: inherit;"> 
-  <img src="./icons/d3.js.svg" alt="d3" width="20" height="20"/> 
+  <img src="./icons/d3.svg" alt="d3" width="20" height="20"/> 
 </a> 
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" style="text-decoration: none; color: inherit;"> 
