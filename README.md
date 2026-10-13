@@ -9,9 +9,9 @@
 
 - ✨ I'm passionate about #techforgood.
 
-- 🔭 I’m currently looking for new opporutnities and challenges.
+- 🔭 I’m currently open to new opportunities and challenges.
 
-- 🌱 I’m currently learning about **Building a scalable B2B platform**.
+- 🌱 I’m currently learning about **all things infra**.
 
 <!-- - 👨‍💻 All of my projects are available at [https://adelbeit.com](https://adelbeit.com) -->
 
