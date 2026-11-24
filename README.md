@@ -21,7 +21,7 @@
 
 <!-- - 📄  Learn about my experiences [https://adelbeit.com/developer](https://adelbeit.com/developer) -->
 
-- ⚡ Fun fact, I've gone solo skydiving.
+- ⚡ Fun fact, I love 100grand candybars.
 
 - ☄ Come hangout with me on [CodePen](https://codepen.io/adelbeit)!
 
