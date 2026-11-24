@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **React, Typescript, UX/UI design, music, television, cooking**.
 
-- 📌 Checkout my latest project **[Event Extractor](https://github.com/adelbeit/event-extractor)**.
+- 📌 Checkout my latest project **[Clutchup](https://clutchup.dev)**.
 
 <!-- - 📄  Learn about my experiences [https://adelbeit.com/developer](https://adelbeit.com/developer) -->
 
